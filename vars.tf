@@ -17,3 +17,15 @@ variable "AMIS" {
         us-west-2 = "ami-0db01fabda16f6445"
     }
 }
+
+variable "ACCOUNT" {
+
+}
+
+variable "SECURITY_ACCOUNT_ID" {
+
+}
+
+variable "CONTACT_EMAIL" {
+    
+}
